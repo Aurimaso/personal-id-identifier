@@ -30,3 +30,5 @@ if (len(personal_code)) == 11 and personal_code.isdigit():
         code_validator()
 else:
     print(f"This: {personal_code}  identification number is in wrong format")
+
+print("hello")
